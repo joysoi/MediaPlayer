@@ -1,4 +1,5 @@
 # MediaPlayer
+## Assignment Task for Verizon Labs
 Media player with toast messages provided for the media controller buttons.
 Typically contains the buttons like "Play/Pause", "Rewind", "Fast Forward" and a progress slider. It takes care of synchronizing the controls with the state of the MediaPlayer.
 
