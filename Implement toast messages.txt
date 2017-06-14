@@ -1,0 +1,8 @@
+fix: Implement toast messages
+
+Include toast messages for the media controller buttons and
+synchronizing the controls.
+
+
+
+
